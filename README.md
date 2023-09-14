@@ -1,7 +1,7 @@
 # Projects
 
 * Contains projects that I want to work on.
-* I would not be surprised if this repo stays virtually empty for a while.
+* I would not be surprised if this repo stays virtually completely empty for a while.
 
 ## Things I want to put in here
 
