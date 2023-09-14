@@ -13,3 +13,4 @@
 ## Hopes and Dreams
 
 One day my friend told me to create something and then I watched a video and was inspired to create the exact same thing that this guy had already created but with a small difference so it COUNTS ok.
+Also as of writing this my Rust skills are next to none so most likely the first thing I will be doing is doing the Rustlings course and then attempting to follow `Rust in Action` as that book impressed me a lot.
