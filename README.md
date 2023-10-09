@@ -9,6 +9,6 @@
 * A brainfuck *trans*piler (probably to a couple of different languages).
 * A brainfuck *com*piler.
 * Games. Starting with Tic-Tac-Toe and progressing to Othello and hopefully Chess.
-* Projects from `Rust in Action` and maybe some other books.
+* Given projects from books.
 * Advent of Code 2023 (and possibly previous years also).
 * Mostly stuff written in Rust. Possibly a small amount of C++. Possibly some Python.
