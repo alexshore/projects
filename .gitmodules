@@ -1,3 +1,6 @@
 [submodule "brainfuck_py"]
 	path = brainfuck_py
 	url = https://github.com/alexshore/brainfuck_py.git
+[submodule "games"]
+	path = games
+	url = https://github.com/alexshore/games.git
