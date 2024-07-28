@@ -6,8 +6,8 @@ Random projects linked as submodules.
 
 * A new (basic) (very basic) programming language.
 * A brainfuck *trans*piler (probably to a couple of different languages).
-* A brainfuck *com*piler.
+* A brainfuck *com*piler (to an executable file).
 * Games. Starting with Tic-Tac-Toe and progressing to Othello and hopefully Chess.
-* Given projects from books.
+* Projects from books.
 * Advent of Code 2023 (and possibly previous years also).
 * Mostly stuff written in Rust. Possibly a small amount of C++. Possibly some Python.
