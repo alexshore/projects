@@ -1,7 +1,6 @@
 # Projects
 
-* Contains projects (as submodules) that I want to work on.
-* I would not be surprised if this repo stays virtually completely empty for a little while.
+Random projects linked as submodules.
 
 ## Things I want to put in here
 
